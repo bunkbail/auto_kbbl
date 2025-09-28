@@ -77,8 +77,9 @@ The installation script handles running the program as a service. You can manage
 
 To completely remove the utility and its service file from your system, navigate to the cloned repository directory and run:
 
-```bash
-sudo make uninstall```
+-   ```bash
+    sudo make uninstall
+    ```
 
 ## License
 
