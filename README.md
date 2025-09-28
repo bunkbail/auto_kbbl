@@ -26,15 +26,15 @@ You can install these on a Debian/Ubuntu system with:
 For a fast and easy setup on a systemd-based Linux distribution, run the following command:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/auto_kbbl.git && cd auto_kbbl && sudo bash install.sh
+git clone https://github.com/bunkbail/auto_kbbl.git && cd auto_kbbl && sudo bash install.sh
 ```
-*Note: Please replace `YOUR_USERNAME` with your actual GitHub username.*
+*Note: Please replace `bunkbail` with your actual GitHub username.*
 
 ## Manual Installation
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/auto_kbbl.git
+    git clone https://github.com/bunkbail/auto_kbbl.git
     cd auto_kbbl
     ```
 
