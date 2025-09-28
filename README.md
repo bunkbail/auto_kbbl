@@ -28,7 +28,6 @@ For a fast and easy setup on a systemd-based Linux distribution, run the followi
 ```bash
 git clone https://github.com/bunkbail/auto_kbbl.git && cd auto_kbbl && sudo bash install.sh
 ```
-*Note: Please replace `bunkbail` with your actual GitHub username.*
 
 ## Manual Installation
 
